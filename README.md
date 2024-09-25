@@ -23,7 +23,7 @@ codsoft task1
       </div>
     </nav>
     <nav id="ish-nav">
-      <div class="logo">RISHABH JAIN</div>
+      <div class="logo">JAGJOT SINGH</div>
       <div class="ish-menu">
         <div class="ish-icon" onclick="toggleMenu()">
           <span></span>
@@ -44,7 +44,7 @@ codsoft task1
       </div>
       <div class="section__text">
         <p class="section__text__p1">Hello, I'm</p>
-        <h1 class="title">RISHABH JAIN</h1>
+        <h1 class="title">JAGJOT  SINGH</h1>
         <p class="section__text__p2">Web Developer</p>
         <div class="btn-container">
           <button
